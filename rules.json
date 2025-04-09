@@ -15,18 +15,4 @@
   }
 ]
 
-[
-  {
-    "type": "field",
-    "outboundTag": "proxy",
-    "domain": [
-      "domain:popo.tw",
-      "domain:po18.tw",
-      "domain:chatgpt.com",
-      "domain:m-team.cc",
-      "domain:ptchdbits.co"
-    ],
-    "enabled": true,
-    "remarks": "自定义走代理"
-  }
-]
+
