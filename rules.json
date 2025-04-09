@@ -8,14 +8,11 @@
       "domain:hdsky.me",
       "domain:paypal.cn",
       "domain:tracker.m-team.cc",
-      "domain:chdbits.xyz",
+      "domain:chdbits.xyz"
     ],
     "enabled": true,
     "remarks": "自定义直连"
-  }
-]
-
-[
+  },
   {
     "type": "field",
     "outboundTag": "proxy",
